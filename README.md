@@ -149,7 +149,7 @@ The cleaning process included:
 
 ### Dashboard
 
-
+https://github.com/Sreeram620/Cafe-Sales-Dashboard./blob/main/Snapshot%20of%20Dashboard.png
 
 ---
 
